@@ -6,10 +6,9 @@ import UIKit
 
   
 
-/*
 
 
-/*
+
 
 // Mark : PROTOCOL
 
@@ -99,10 +98,7 @@ interruptor.conmutar()
 print(interruptor)
 
 
-*/
 
-
-/*
 /// INICIALIZADOR
 
 
@@ -219,7 +215,6 @@ print(bici.descripción)
  
 ///inicializador comida
 
-/*
 class Food {
     
     var name: String
